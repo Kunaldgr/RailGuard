@@ -318,7 +318,8 @@ Precision stayed near 1.0 across nearly all thresholds while recall plateaued ar
 
 **KUNAL DAGAR**
 
-📧 Email: [kunaldagar4298@gmail.com] 💼 LinkedIn: [https://www.linkedin.com/in/kunal-dagar-661161322/]   💻 GitHub: [https://github.com/Kunaldgr]
+📧 Email: [kunaldagar4298@gmail.com] 💼 LinkedIn: [https://www.linkedin.com/in/kunal-dagar-661161322/]   
+💻 GitHub: [https://github.com/Kunaldgr]
 
 ## 📚 References
 
