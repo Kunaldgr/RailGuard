@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+
+venv/
+veny/
+.venv/
+
+checkpoint/
+
+backend-image/test/
+.vscode/
+.idea/
+
+.env
