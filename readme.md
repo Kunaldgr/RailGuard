@@ -1,4 +1,4 @@
-# 🚆 RailSentinel
+# 🚆 RailGuard AI
 
 ### AI-Powered Predictive Maintenance & Fault Detection for Railway Infrastructure
 
@@ -242,7 +242,7 @@ python -m http.server 5500
 ## 📁 Project Structure
 
 ```
-railsentinel/
+railguard/
 ├── backend/
 │   ├── main.py                          # Tabular models API (port 8000)
 │   ├── checkpoint/
@@ -316,9 +316,9 @@ Precision stayed near 1.0 across nearly all thresholds while recall plateaued ar
 
 ## 📞 Contact
 
-**[Your Name]**
+**KUNAL DAGAR**
 
-📧 Email: [kunaldagar4298@gmail.com] 💼 LinkedIn: [https://www.linkedin.com/in/kunal-dagar-661161322/] 💻 GitHub: [https://github.com/Kunaldgr]
+📧 Email: [kunaldagar4298@gmail.com] 💼 LinkedIn: [https://www.linkedin.com/in/kunal-dagar-661161322/]   💻 GitHub: [https://github.com/Kunaldgr]
 
 ## 📚 References
 
